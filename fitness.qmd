@@ -1,0 +1,8 @@
+---
+title: "Fitness"
+listing:
+  contents:
+    - "/reports/Week*.pdf"
+---
+
+View my progress below.

@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am currently unemployed. I would like to not be unemployed.\nView my Resume here (written with LaTeX).\nRelevant Courses Taken:\nBowling Green State University:\nMasters in the Field of Mathematics with a Specialization in Statistics\nMATH 7550 - Statistical Learning I\nMATH 6820 - Algorithms\nMATH 6820 - Applied Multidimensional Analysis\nMATH 6720 - Biostatistical Methods\nMATH 6490 - Statistical Graphics\nMATH 6480 - Bayesian Decision Theory\nMATH 6440 - Stochastic Processes\nMATH 6420 - Math Statistics II\nMATH 6410 - Probability Theory I\nMATH 5950 - Intro to Real Analysis I\nUniversity of Cincinnati:\nBachelor of Science in the Field of Mathematics with a Specialization in Statistics/Actuarial Sciences\nSTAT 5132 - Applied Stats II\nSTAT 5131 - Applied Stats I\nSTAT 5121 - Math Stats I\nMATH 4008 - Intro Probability\nPHIL 3097 - Big Data, Bigger Questions\nMATH 3096 - Math of Games and Puzzles\nSTAT 3038 - Prob & Stats II\nMATH 3006 - Math Modeling\nMATH 3002 - Intro Analysis\nMATH 3001 - Intro Abstract Math\nMATH 2076 - Linear Algebra\nMATH 2073 - Differential Equations\nMATH 2063 - Multivariable Calculus\nSTAT 2037 - Prob & Stats I\nHFL 1044C - Basketball\nOnline Courses:\nMIT 14.310x - Data Analysis for Social Scientists - Audit Track - In progress - June ’23"
+  },
+  {
+    "objectID": "fitness.html",
+    "href": "fitness.html",
+    "title": "Fitness",
+    "section": "",
+    "text": "View my progress below.\n\n\n\n\n\n\n\n\n \n\n\n\n\nWeek1.pdf\n\n\n6/13/23, 5:20:55 PM\n\n\n\n\n\n\n \n\n\n\n\nWeek2.pdf\n\n\n6/13/23, 5:24:13 PM\n\n\n\n\n\n\n \n\n\n\n\nWeek3.pdf\n\n\n6/29/23, 7:31:16 PM\n\n\n\n\n\n\n \n\n\n\n\nWeek4.pdf\n\n\n7/6/23, 7:26:22 PM\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Hello.\nClick the About tab to learn about me and to view my Resume\nClick the Projects tab to learn about some personal projects I’ve worked on."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "I’ve spent a lot of time developing my skills in mathematics and data science. I consider the projects below to be complete and representative of my career arc.\n\nWebsite – Quarto, R Markdown\nI do not enjoy web programming. but I’ve been told self-promotion is important. So here we are. I created this website entirely in Quarto using RStudio. I plan on showcasing any future work here.\nFitness – Reporting, Automation, and Data Viz\nIn May 2023, I started a fitness program with a trainer. With my weightlifting data, I created some reports with R that show my progress over time. You can read about my journey here.\nStat Graphics - Data Viz\nBG 2020 – coming soon\nMath Modeling - Zombie Disease Model\nUC 2018 – coming soon\nPhysically Accurate Golf - 2017 - Physics Modelling - Research\nOne of my first projects at the University of Cincinnati was to model the flight of a golf ball. This was a great exercise in product development and building on the research of others to create something of our own. Working with three others to complete this project, we later incorporated our final model into the video game below.\nClick here to play!"
+  }
+]

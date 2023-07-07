@@ -1,0 +1,50 @@
+---
+title: "About"
+author: "Ben Gramza"
+resources:
+  - "BenGramzaResume06292023.pdf"
+---
+
+I am currently unemployed. I would like to not be unemployed.
+
+View my Resume [here](/contents/BenGramzaResume06292023.pdf) (written with LaTeX).
+
+
+**Relevant Courses Taken:**
+
+**Bowling Green State University:**\
+*Masters in the Field of Mathematics with a Specialization in Statistics*
+
+MATH 7550 - Statistical Learning I\
+MATH 6820 - Algorithms\
+MATH 6820 - Applied Multidimensional Analysis\
+MATH 6720 - Biostatistical Methods\
+MATH 6490 - Statistical Graphics\
+MATH 6480 - Bayesian Decision Theory\
+MATH 6440 - Stochastic Processes\
+MATH 6420 - Math Statistics II\
+MATH 6410 - Probability Theory I\
+MATH 5950 - Intro to Real Analysis I
+
+**University of Cincinnati:**\
+*Bachelor of Science in the Field of Mathematics with a Specialization in Statistics/Actuarial Sciences*
+
+STAT 5132 - Applied Stats II\
+STAT 5131 - Applied Stats I\
+STAT 5121 - Math Stats I\
+MATH 4008 - Intro Probability\
+PHIL 3097 - Big Data, Bigger Questions\
+MATH 3096 - Math of Games and Puzzles\
+STAT 3038 - Prob & Stats II\
+MATH 3006 - Math Modeling\
+MATH 3002 - Intro Analysis\
+MATH 3001 - Intro Abstract Math\
+MATH 2076 - Linear Algebra\
+MATH 2073 - Differential Equations\
+MATH 2063 - Multivariable Calculus\
+STAT 2037 - Prob & Stats I\
+HFL 1044C - Basketball
+
+**Online Courses:**
+
+MIT 14.310x - Data Analysis for Social Scientists - Audit Track - In progress - June '23

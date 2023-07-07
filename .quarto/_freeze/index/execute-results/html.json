@@ -1,0 +1,14 @@
+{
+  "hash": "060dbd508a148b958ca3952fe5ab16ba",
+  "result": {
+    "markdown": "---\ntitle: \"Portfolio\"\nauthor: \"Ben Gramza\"\n---\n\n\nI'm looing for an environment where I can grow I am and my social security number is \\[REDACTED\\]. You can contact me at bgramza8\\@gmail.com\n\nClick the \\_\\_ tab to learn more about me.\n\nClick here to view my Portfolio -\\>\n\nClick here to view my Resume -\\>\n\nHere are things that I have done.\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](BenGramzaResume04252023.pdf)\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
