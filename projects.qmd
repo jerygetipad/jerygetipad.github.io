@@ -11,17 +11,13 @@ I've spent a lot of time developing my skills in mathematics and data science. I
 
 2.  Fitness -- Reporting, Automation, and Data Viz
 
-    In May 2023, I started a fitness program with a trainer. With my weightlifting data, I created some reports with R that show my progress over time. You can read about my journey [here](fitness.qmd).
+    In May 2023, I started a fitness program with a trainer through Renovo Fitness. With my weightlifting data, I created some reports with R that show my progress over time. You can read about my journey [here](fitness.qmd).
 
-3.  Stat Graphics - Data Viz
+3.  NASCAR Data -- Reporting, Package Building, and Data Viz
 
-    BG 2020 -- coming soon
+    I gamble on NASCAR when I have free time. I have a lot of free time. I do not recommend this lifestyle. \_Here are some tables and plots that I've generated while working with this data. I created a package with the help of \_sportsdataverse and \_\_\_\_\_\_\_. You can download it using \_these instructions.
 
-4.  Math Modeling - Zombie Disease Model
-
-    UC 2018 -- coming soon
-
-5.  Physically Accurate Golf - 2017 - Physics Modelling - Research
+4.  Physically Accurate Golf - 2017 - Physics Modelling - Research
 
     One of my first projects at the University of Cincinnati was to model the flight of a golf ball. This was a great exercise in product development and building on the research of others to create something of our own. Working with three others to complete this project, we later incorporated our final model into the video game below.
 
