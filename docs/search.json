@@ -11,7 +11,7 @@
     "href": "fitness.html",
     "title": "Fitness",
     "section": "",
-    "text": "View my progress below.\n\n\n\n\n\n\n\n\n \n\n\n\n\nWeek1.pdf\n\n\n6/13/23, 5:20:55 PM\n\n\n\n\n\n\n \n\n\n\n\nWeek2.pdf\n\n\n6/13/23, 5:24:13 PM\n\n\n\n\n\n\n \n\n\n\n\nWeek3.pdf\n\n\n6/29/23, 7:31:16 PM\n\n\n\n\n\n\n \n\n\n\n\nWeek4.pdf\n\n\n7/6/23, 7:26:22 PM\n\n\n\n\n\n\nNo matching items"
+    "text": "View my progress below.\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -21,17 +21,17 @@
     "text": "Hello. My website is currently under construction.\nClick the About tab to learn about me and to view my Resume\nClick the Projects tab to learn about some personal projects I’ve worked on."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "I’ve spent a lot of time developing my skills in mathematics and data science. I consider the projects below to be complete and representative of my career arc.\n\nWebsite – Quarto, R Markdown\nI do not enjoy web programming. but I’ve been told self-promotion is important. So here we are. I created this website entirely in Quarto using RStudio. I plan on showcasing any future work here.\nFitness – Reporting, Automation, and Data Viz\nIn May 2023, I started a fitness program with a trainer through Renovo Fitness. With my weightlifting data, I created some reports with R that show my progress over time. You can read about my journey here.\nNASCAR Data – Reporting, Package Building, and Data Viz\nI gamble on NASCAR when I have free time. I have a lot of free time. I do not recommend this lifestyle. _Here are some tables and plots that I’ve generated while working with this data. I created a package with the help of _sportsdataverse and _______. You can download it using _these instructions.\nPhysically Accurate Golf - 2017 - Physics Modelling - Research\nOne of my first projects at the University of Cincinnati was to model the flight of a golf ball. This was a great exercise in product development and building on the research of others to create something of our own. Working with three others to complete this project, we later incorporated our final model into the video game below.\nClick here to play!"
-  },
-  {
     "objectID": "nascar.html",
     "href": "nascar.html",
     "title": "NASCAR",
     "section": "",
     "text": "DNF and Laps Down Reports\n\n2022 Cup – 2022 Xfinity – 2022 Trucks\n2021 Cup – 2021 Xfinity – 2021 Trucks\n2020 Cup – 2020 Xfinity – 2020 Trucks\n2019 Cup – 2019 Xfinity – 2019 Trucks"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "I’ve spent a lot of time developing my skills in mathematics and data science. I consider the projects below to be representative of my career arc.\n\nWebsite – Quarto, R Markdown\nI do not enjoy web programming, but I’ve been told self-promotion is important. So here we are. I created this website entirely in Quarto using RStudio. I plan on showcasing any future work here.\nFitness – Reporting, Automation, and Data Viz\nIn May 2023, I started a fitness program with a trainer through Renovo Fitness. With my weightlifting data, I created some reports with R that show my progress over time. You can read about my journey here.\nNASCAR Data – Reporting, Package Building, and Data Viz\nI gamble on NASCAR when I have free time. I have a lot of free time. I do not recommend this lifestyle. Here are some tables and plots that I’ve generated while working with this data. I created a package with the help of sportsdataverse. You can download this package by running the following.\nlibrary(devtools)\ninstall_github(\"jerygetipad/custeR\")\nPhysically Accurate Golf - 2017 - Physics Modelling - Research\nOne of my first projects at the University of Cincinnati was to model the flight of a golf ball. This was a great exercise in product development and building on the research of others to create something of our own. Working with three others to complete this project, we later incorporated our final model into the video game below.\nClick here to play!"
   }
 ]
