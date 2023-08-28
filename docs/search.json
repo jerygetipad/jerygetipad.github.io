@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Hello. My website is currently under construction.\nClick the About tab to learn about me and to view my Resume\nClick the Projects tab to learn about some personal projects I’ve worked on."
+    "text": "Hello. My website is currently under construction.\nClick the About tab to learn about me and to view my Resume\nClick the Projects tab to learn about some personal projects I’ve worked on\nClick the NASCAR tab to go fast\nClick the Plots tab to view some of my {ggplot} work"
   },
   {
     "objectID": "nascar.html",

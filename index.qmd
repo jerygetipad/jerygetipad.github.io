@@ -3,8 +3,12 @@ title: "Home"
 author: "Ben Gramza"
 ---
 
-Hello. My website is currently under construction. 
+Hello. My website is currently under construction.
 
-Click the About tab to learn about me and to view my Resume 
+Click the About tab to learn about me and to view my Resume
 
-Click the Projects tab to learn about some personal projects I've worked on. 
+Click the Projects tab to learn about some personal projects I've worked on
+
+Click the NASCAR tab to go fast
+
+Click the Plots tab to view some of my {ggplot} work

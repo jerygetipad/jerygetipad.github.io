@@ -1,0 +1,35 @@
+---
+title: "Plots (click to zoom)"
+format: html
+filters:
+   - lightbox
+lightbox: auto
+---
+
+```{r echo=FALSE}
+plots <- list.files("./_site/plots/",full.names = T)
+```
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));grid-gap: 1em;"}
+![](`r plots[1]`){group="my-gallery"}
+
+![](`r plots[2]`){group="my-gallery"}
+
+![](`r plots[3]`){group="my-gallery"}
+
+![](`r plots[4]`){group="my-gallery"}
+
+![](`r plots[5]`){group="my-gallery"}
+
+![](`r plots[6]`){group="my-gallery"}
+
+![](`r plots[7]`){group="my-gallery"}
+
+![](`r plots[8]`){group="my-gallery"}
+
+![](`r plots[9]`){group="my-gallery"}
+
+![](`r plots[10]`){group="my-gallery"}
+
+![](`r plots[11]`){group="my-gallery"}
+:::

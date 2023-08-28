@@ -12,6 +12,7 @@ website:
       - about.qmd
       - projects.qmd
       - nascar.qmd
+      - plots.qmd
 
 format:
   html:
