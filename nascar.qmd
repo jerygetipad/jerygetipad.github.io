@@ -12,3 +12,9 @@ title: "NASCAR"
 [2019 Cup](./_site/nas_dnf_ld/2019_1.html) -- [2019 Xfinity](./_site/nas_dnf_ld/2019_2.html) -- [2019 Trucks](./_site/nas_dnf_ld/2019_3.html)\
 
 </details>
+
+<details>
+<summary>Qualifying Metrics -- 2023 NASCAR Season</summary>
+<iframe height="400" width="100%" frameborder="no" src="https://ben-gramza.shinyapps.io/NASCAR_Qualifying_2023/"> </iframe>
+
+</details>
