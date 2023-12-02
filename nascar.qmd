@@ -15,7 +15,6 @@ title: "NASCAR"
 
 <details>
 <summary>Qualifying Metrics -- 2023 NASCAR Season</summary>
-Shiny app may take some time to load. 
 <iframe height="400" width="100%" frameborder="no" src="https://ben-gramza.shinyapps.io/NASCAR_Qualifying_2023/"> </iframe>
 
 </details>
