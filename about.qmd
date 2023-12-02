@@ -9,7 +9,6 @@ I am currently unemployed. I would like to not be unemployed.
 
 View my Resume [here](/contents/BenGramzaResume06292023.pdf) (written with LaTeX).
 
-
 **Relevant Courses Taken:**
 
 **Bowling Green State University:**\
@@ -47,4 +46,5 @@ HFL 1044C - Basketball
 
 **Online Courses:**
 
-MIT 14.310x - Data Analysis for Social Scientists - Audit Track - In progress - June '23
+MIT 14.310x - Data Analysis for Social Scientists - Audit Track - Completed - August '23\
+MIT/EDx - CS50 SQL - Audit Track - In Progress - October '23

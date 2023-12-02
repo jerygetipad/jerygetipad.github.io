@@ -3,17 +3,21 @@ title: "Projects"
 author: "Ben Gramza"
 ---
 
-I've spent a lot of time developing my skills in mathematics and data science. I consider the projects below to be representative of my career arc.
+I've spent a lot of time developing my skills in mathematics and data science. I consider the projects below to be complete and representative of my career arc.
 
-1.  Website -- Quarto, R Markdown
+1.  Discord Bot -- Python, Google Cloud, Google Sheets, ChatGPT
+
+    For a Discord server, I wrote a Discord bot using python that tracks user-submitted bets. This bot has several commands, including /newbet (tracks a new bet), /updatebet (to update the result of a bet), and /checkbet (pulls the last n bets for a given user). This was my first experience using ChatGPT, which wrote an excellent tutorial outlining how to create a discord bot and connect it to Google Sheets. Neat innit? View my code [here](https://github.com/jerygetipad/OrbofDegeneracy/blob/main/OrbofDegeneracy.py)
+
+2.  Website -- Quarto, R Markdown
 
     I do not enjoy web programming, but I've been told self-promotion is important. So here we are. I created this website entirely in Quarto using RStudio. I plan on showcasing any future work here.
 
-2.  Fitness -- Reporting, Automation, and Data Viz
+3.  Fitness -- Reporting, Automation, and Data Viz
 
     In May 2023, I started a fitness program with a trainer through Renovo Fitness. With my weightlifting data, I created some reports with R that show my progress over time. You can read about my journey [here](fitness.qmd).
 
-3.  NASCAR Data -- Reporting, Package Building, and Data Viz
+4.  NASCAR Data -- Reporting, Package Building, and Data Viz
 
     I gamble on NASCAR when I have free time. I have a lot of free time. I do not recommend this lifestyle. [Here](nascar.qmd) are some tables and plots that I've generated while working with this data. I created a package with the help of [sportsdataverse](https://www.sportsdataverse.org/). You can download this package by running the following.
 
@@ -22,7 +26,7 @@ I've spent a lot of time developing my skills in mathematics and data science. I
     install_github("jerygetipad/custeR")
     ```
 
-4.  Physically Accurate Golf - 2017 - Physics Modelling - Research
+5.  Physically Accurate Golf - 2017 - Physics Modelling - Research
 
     One of my first projects at the University of Cincinnati was to model the flight of a golf ball. This was a great exercise in product development and building on the research of others to create something of our own. Working with three others to complete this project, we later incorporated our final model into the video game below.
 
