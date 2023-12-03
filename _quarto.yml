@@ -16,7 +16,11 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: darkly
+    backgroundcolor: "#333333"
+    fontcolor: "white"
+    linkcolor: "#FFD700"
+    monobackgroundcolor: "#000000"
     css: styles.css
 
 editor: visual
